@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da3bee2a-0e1e-4678-8004-59f2cf65bd35" name="Default Changelist" comment="initial_commit">
+      <change beforePath="$PROJECT_DIR$/../quiz-game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz-game/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24PM78Apy0fmtoLZMWZPhWENsHf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da3bee2a-0e1e-4678-8004-59f2cf65bd35" name="Default Changelist" comment="" />
+      <created>1643527597703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643527597703</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial_commit">
+      <created>1643527658128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643527658128</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;initial_commit&quot;&#10;&#10;This reverts commit 4282d0f3">
+      <created>1643528063116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643528063116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="initial_commit" />
+    <MESSAGE value="Revert &quot;initial_commit&quot;&#10;&#10;This reverts commit 4282d0f3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;initial_commit&quot;&#10;&#10;This reverts commit 4282d0f3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1643528062254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1643528062254" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1643528177615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1643528177615" />
+    <state x="544" y="262" key="Github.ShareDialog" timestamp="1643528166580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="544" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1643528166580" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1643528280364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1643528280364" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1643527775329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1643527775329" />
+    <state x="483" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1643528236991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="483" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1643528236991" />
+  </component>
+</project>
